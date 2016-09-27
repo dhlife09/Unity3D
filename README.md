@@ -1,5 +1,4 @@
 # Unity3D
 
- (9/8) Rotation.cs
- 
- (9/22) Debri.cs
+Rotation.cs files have been uploaded to 9/8.
+Debri.cs files have been uploaded to 9/22.
