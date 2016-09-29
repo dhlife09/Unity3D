@@ -9,3 +9,7 @@ SpawnPoint.cs files have been uploaded to 9/27.
 Timer.cs files have been uploaded to 9/29.
 
 Score.cs iles have been uploaded to 9/29.
+
+# Unity3D 파일 수정 기록
+
+SpawnPoint.cs the file is modified in 09/29.
